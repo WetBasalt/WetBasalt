@@ -1,7 +1,8 @@
-This is my alter-ego to go from 0 to mediocre at game development. Watch me struggle.
+This is my alter-ego to go from zero to mediocre at game development. Watch me struggle.
 
 Table of contents in order
-1. Blacjac - Why use two letters when one letter does trick
+I. Someone can do these with their eyes closed
+    A. Blacjac - Why waste time use two letters, when one letter does trick
 
 <!---
 WetBasalt/WetBasalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
